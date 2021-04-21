@@ -22,15 +22,25 @@ DCGAN
 
 LSGAN
 
-<img src="./pics/lsgan_logo.gif" width="48%" height="48%">   <img src="./pics/dcgan-epoch10.png" width="48%" height="48%">
+<img src="./pics/lsgan_logo.gif" width="48%" height="48%">   <img src="./pics/lsgan.png" width="48%" height="48%">
 
 WGAN
 
-<img src="./pics/wgan_logo.gif" width="48%" height="48%">   <img src="./pics/dcgan-epoch10.png" width="48%" height="48%">
+<img src="./pics/wgan_logo.gif" width="48%" height="48%">   <img src="./pics/wgan.png" width="48%" height="48%">
 
 WGAN-GP
 
-<img src="./pics/wgan_gp_logo.gif" width="48%" height="48%">   <img src="./pics/dcgan-epoch10.png" width="48%" height="48%">
+<img src="./pics/wgan_gp_logo.gif" width="48%" height="48%">   <img src="./pics/wgan_gp.png" width="48%" height="48%">
+
+### Interpolation
+
+Interpolate between 2 logos (top left and bottom right).
+
+<img src="./pics/interpolation_2.png" width="48%" height="48%">
+
+Interpolate among 4 different logos on each corner.
+
+<img src="./pics/interpolation_4.png" width="48%" height="48%">
 
 # Usage
 ```
