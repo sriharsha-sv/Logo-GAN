@@ -1,5 +1,5 @@
 # Logo-GAN
-Creating Logos using Generative Adversarial Networks. This is [my thesis](https://github.com/sriharsha-sv/Logo-GAN/blob/main/Thesis.pdf) for the conferral of my Masters degree at University of Hyderabad, India.
+Creating Logos using Generative Adversarial Networks. This is [my thesis](https://github.com/sriharsha-sv/Logo-GAN/blob/main/Thesis.pdf) for the conferral of Masters degree at University of Hyderabad, India.
 
 Tensorflow implementation of DCGAN, LSGAN, WGAN and WGAN-GP, and we use DCGAN as the network architecture in all experiments. This code is modified from LynnHo's [Github repository](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2/tree/master/v1) to train on logos.
 
@@ -55,4 +55,4 @@ python train_logo_wgan_gp.py
 - python 2.7
 
 ## Dataset
-I used the [Large Logo Dataset](https://data.vision.ee.ethz.ch/sagea/lld/) to train all architectures of GAN. Download the dataset and save it in data/logos 
+I used the [Large Logo Dataset](https://data.vision.ee.ethz.ch/sagea/lld/) to train all architectures of GAN. Download the dataset and save it in data/logos before training the model. 
