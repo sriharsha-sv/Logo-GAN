@@ -1,5 +1,5 @@
 # Logo-GAN
-Creating Logos using Generative Adversarial Networks. This is my masters thesis for the conferral of Master of Science in Mathematical Sciences at University of Hyderabad.
+Creating Logos using Generative Adversarial Networks. This is [my thesis](https://github.com/sriharsha-sv/Logo-GAN/blob/main/Thesis.pdf) for the conferral of my Masters degree at University of Hyderabad, India.
 
 Tensorflow implementation of DCGAN, LSGAN, WGAN and WGAN-GP, and we use DCGAN as the network architecture in all experiments. This code is modified from LynnHo's [Github repository](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2/tree/master/v1) to train on logos.
 
